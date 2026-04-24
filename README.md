@@ -1,64 +1,70 @@
-# Bonjour, je suis Max Biber 👋
+# Hi there, Welcome on my Github Page! 👋
 
-**Data Scientist** basé à Aix-en-Provence · Mathématiques Appliquées & Machine Learning · Problématiques environnementales & scientifiques
+## About Me
+
+I'm a **Data Scientist** based in Aix-en-Provence, France, graduated with a
+Master's degree in **Applied Mathematics — Statistics & Data Science**
+(Aix-Marseille University). I have experience working in large companies
+(Orange, Suez) and consulting (Agap2IT), with a strong interest in
+environmental and scientific challenges.
+
+- 🔭 Currently working as **Data Analyst at Agap2IT**
+- 🎓 Master in Applied Mathematics & Data Science — Aix-Marseille University
+- 🌍 Based in Aix-en-Provence, open to France & abroad
+- 📫 Reach me at **max.biber13@gmail.com**
+- 🌐 Portfolio: [maxbiber.github.io/portfolio](https://maxbiber.github.io/portfolio)
 
 ---
 
-## À propos
+## 🛠 Tech Stack
 
-Diplômé d'un **Master Mathématiques Appliquées — Statistique & Data Science** (Aix-Marseille Université), j'ai travaillé dans des grands groupes (Orange, Suez) et en cabinet de conseil (Agap2IT). J'aime transformer des données brutes en insights actionnables, que ce soit via des modèles ML, des séries temporelles ou des tableaux de bord Power BI.
-
----
-
-## 🛠 Stack technique
-
-| Domaine | Outils |
+| Domain | Tools |
 |---|---|
-| Langages | Python · R · SQL · SAS |
+| Languages | Python · R · SQL · SAS |
 | Machine Learning | XGBoost · TensorFlow/Keras · PyOD · Prophet · ARIMA/SARIMA |
-| Visualisation & BI | Power BI · Excel/VBA |
-| Web & Automatisation | Django · Power Automate · SharePoint |
-| Langues | Français (natif) · Anglais (B2) · Espagnol (A2) |
+| Visualization & BI | Power BI · Excel/VBA |
+| Web & Automation | Django · Power Automate · SharePoint |
+| Languages | French (native) · English (B2) · Spanish (A2) |
 
 ---
 
-## 💼 Expériences
+## 💼 Experience
 
-**Agap2IT, Aix-en-Provence — Data Analyst** *(oct. 2025 – aujourd'hui)*
-- Analyse de données de production et détection d'anomalies (SQLServer, Python)
-- Création de 10+ KPI financiers et tableaux de bord Power BI
-- Automatisation de procédés industriels via VBA, Python et Power Automate
+**Agap2IT, Aix-en-Provence — Data Analyst** *(Oct. 2025 – present)*
+- Production data analysis and anomaly detection (SQLServer, Python)
+- Created 10+ financial KPIs and Power BI dashboards
+- Process automation via VBA, Python and Power Automate
 
-**Suez, Aix-en-Provence — Data Analyst** *(avr. – oct. 2025)*
-- Tableaux de bord Power BI pour suivi des délais et détection proactive de fuites · dizaines de milliers de compteurs
-- Réduction de **75 %** de l'espace de stockage des rapports par restructuration des modèles de données
+**Suez, Aix-en-Provence — Data Analyst** *(Apr. – Oct. 2025)*
+- Power BI dashboards for intervention tracking and proactive leak detection · tens of thousands of meters
+- **75% reduction** in Power BI report storage through data model restructuring
 
-**Orange, Marseille — Alternance Data Scientist & Développeur Django** *(sept. 2023 – sept. 2024)*
-- Segmentation client NPS via **XGBoost** · centaines de milliers d'entrées
-- Prédiction de séries temporelles (XGBoost, Prophet) et tests statistiques (Chi²)
-- Application Django d'optimisation des tournées techniciens
+**Orange, Marseille — Data Scientist & Django Developer (Apprenticeship)** *(Sept. 2023 – Sept. 2024)*
+- NPS customer segmentation via **XGBoost** · hundreds of thousands of entries
+- Time series forecasting (XGBoost, Prophet) and statistical tests (Chi²)
+- Django app to optimize field technician routes
 
-**Captain Tortue, Aix-en-Provence — Stage Data Scientist** *(janv. – juin 2023)*
-- Modélisation du CA par séries temporelles (ARIMA, SARIMA) · 3+ ans d'historique
-- Dashboards et KPI pour la direction stratégique
+**Captain Tortue, Aix-en-Provence — Data Scientist Intern** *(Jan. – Jun. 2023)*
+- Revenue modelling via time series (ARIMA, SARIMA) · 3+ years of sales history
+- Dashboards and KPIs for strategic management
 
 ---
 
-## 🎓 Formation
+## 🎓 Education
 
-- **Master Mathématiques Appliquées — Statistique & Data Science**, AMU (2022–2024)
-- **Licence Mathématiques**, AMU (2020–2022)
+- **Master Applied Mathematics — Statistics & Data Science**, AMU (2022–2024)
+- **Bachelor's in Mathematics**, AMU (2020–2022)
 - **CPGE MPSI**, Lycée Thiers, Marseille (2019–2020)
 
 ---
 
-## 🌱 Centres d'intérêt
+## 🌱 Interests
 
-🏊 Natation · Triathlon en relais · Défi du Monté Cristo  
-🏓 Tennis de table (niveau pré-régional)  
-♟️ Échecs (tournois universitaires)  
-🎸 Guitare & Piano  
-🚑 Secouriste diplômé — BSB & BNS
+🏊 Swimming · Relay Triathlon · Défi du Monté Cristo
+🏓 Table Tennis (pre-regional level)
+♟️ Chess (university tournaments)
+🎸 Guitar & Piano
+🚑 Certified First Responder — BSB & BNS
 
 ---
 
