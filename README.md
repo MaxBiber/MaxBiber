@@ -70,6 +70,6 @@ environmental and scientific challenges.
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-max--biber-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/max-biber)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-max--biber-0077B5?style=flat-square&logo=linkedin)]([https://linkedin.com/in/max-biber](https://www.linkedin.com/in/max-biber-2014aa254/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-maxbiber.github.io-333?style=flat-square&logo=github)](https://maxbiber.github.io/portfolio)
 [![Email](https://img.shields.io/badge/Email-max.biber13@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:max.biber13@gmail.com)
