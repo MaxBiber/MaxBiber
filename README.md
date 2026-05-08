@@ -1,6 +1,9 @@
-# Hi there, Welcome on my Github Page! 👋
+# Hi there, Welcome on my Github Page ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+![Visiteurs](https://komarev.com/ghpvc/?username=Jean8900&style=flat-square)
 
-## About Me
+___
+
+### About Me 🚀
 
 I'm a **Data Scientist** based in Aix-en-Provence, France, graduated with a
 Master's degree in **Applied Mathematics — Statistics & Data Science**
