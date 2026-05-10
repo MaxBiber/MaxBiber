@@ -33,25 +33,15 @@ ___
 
 ### My professional expericence as Data scientist/data analyst🙌
 
-**Agap2IT, Aix-en-Provence — Data Analyst** *(Oct. 2025 – present)*
-- Production data analysis and anomaly detection (SQLServer, Python)
-- Created 10+ financial KPIs and Power BI dashboards
-- Process automation via VBA, Python and Power Automate
+- [Agap2it](https://agap2-it.fr/)) 
+- [Orange](https://www.orange.fr/portail)
+- [Captain Tortue](https://talents.maisoncaptain.com/)
+<div align="center">
+  <img src="logo_entreprises_.png" alt="Logos entreprises" width="750"/>
+</div>
 
-**Suez, Aix-en-Provence — Data Analyst** *(Apr. – Oct. 2025)*
-- Power BI dashboards for intervention tracking and proactive leak detection · tens of thousands of meters
-- **75% reduction** in Power BI report storage through data model restructuring
 
-**Orange, Marseille — Data Scientist & Django Developer (Apprenticeship)** *(Sept. 2023 – Sept. 2024)*
-- NPS customer segmentation via **XGBoost** · hundreds of thousands of entries
-- Time series forecasting (XGBoost, Prophet) and statistical tests (Chi²)
-- Django app to optimize field technician routes
-
-**Captain Tortue, Aix-en-Provence — Data Scientist Intern** *(Jan. – Jun. 2023)*
-- Revenue modelling via time series (ARIMA, SARIMA) · 3+ years of sales history
-- Dashboards and KPIs for strategic management
-
----
+___
 
 ## 🎓 Education
 
