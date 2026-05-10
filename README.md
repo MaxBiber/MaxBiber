@@ -43,15 +43,24 @@ ___
 </div>
 
 ___
-## ⚙️ Languages & Tech Stack
+## 💻 Languages
 
-| **Domain**              | **Technologies**                                                                                                                                                                                                                                        |
-|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Data Science & ML**   | [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org) [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org) [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org) [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)](https://scipy.org) [![XGBoost](https://img.shields.io/badge/XGBoost-289B5A?style=flat&logo=xgboost&logoColor=white)](https://xgboost.ai) |
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX"/></code>
+
+---
+
+## 🚀 Tech Stack
+
+| **Domain** | **Technologies** |
+|---|---|
+| **Languages** | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/) [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server) [![SAS](https://img.shields.io/badge/SAS-007ACC?style=flat&logoColor=white)](https://www.sas.com/) |
+| **Machine Learning** | [![XGBoost](https://img.shields.io/badge/XGBoost-289B5A?style=flat&logo=xgboost&logoColor=white)](https://xgboost.ai) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org) [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)](https://keras.io/) [![PyOD](https://img.shields.io/badge/PyOD-4B8BBE?style=flat&logo=python&logoColor=white)](https://pyod.readthedocs.io/) [![Prophet](https://img.shields.io/badge/Prophet-0052CC?style=flat&logo=meta&logoColor=white)](https://facebook.github.io/prophet/) [![ARIMA/SARIMA](https://img.shields.io/badge/ARIMA%2FSARIMA-6A1B9A?style=flat&logoColor=white)]() |
+| **Visualization & BI** | [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/) [![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel) [![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoftoffice&logoColor=white)]() |
 | **Web** | [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/fr/docs/Web/JavaScript) [![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/) |
-| **AI & Automation** | [![Mistral AI](https://img.shields.io/badge/Mistral%20AI-000000?style=flat&logo=mistral&logoColor=white)](https://mistral.ai) [![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=flat&logo=google&logoColor=white)](https://developers.google.com/agents) [![n8n](https://img.shields.io/badge/n8n-000000?style=flat&logo=n8n&logoColor=white)](https://n8n.io/) |
-| **Databases** | [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server) |
-| **Environments**        | [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com) [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/) |
+| **Environments** | [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com) [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/) |
 
 
 ## 🎓 Education
