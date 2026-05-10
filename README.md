@@ -19,18 +19,6 @@ environmental and scientific challenges.
 
 ___
 
-## 🛠 Tech Stack
-
-| Domain | Tools |
-|---|---|
-| Languages | Python · R · SQL · SAS |
-| Machine Learning | XGBoost · TensorFlow/Keras · PyOD · Prophet · ARIMA/SARIMA |
-| Visualization & BI | Power BI · Excel/VBA |
-| Web & Automation | Django · Power Automate · SharePoint |
-| Languages | French (native) · English (B2) · Spanish (A2) |
-
-___
-
 ### My professional expericence as Data scientist/data analyst🙌
 
 - [Agap2it](https://agap2-it.fr/) 
