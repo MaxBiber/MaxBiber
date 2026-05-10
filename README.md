@@ -17,7 +17,7 @@ environmental and scientific challenges.
 - 📫 Reach me at **max.biber13@gmail.com**
 - 🌐 Portfolio: [maxbiber.github.io/portfolio](https://maxbiber.github.io/portfolio)
 
----
+___
 
 ## 🛠 Tech Stack
 
@@ -29,9 +29,9 @@ environmental and scientific challenges.
 | Web & Automation | Django · Power Automate · SharePoint |
 | Languages | French (native) · English (B2) · Spanish (A2) |
 
----
+___
 
-## 💼 Experience
+### My professional expericence as Data scientist/data analyst🙌
 
 **Agap2IT, Aix-en-Provence — Data Analyst** *(Oct. 2025 – present)*
 - Production data analysis and anomaly detection (SQLServer, Python)
