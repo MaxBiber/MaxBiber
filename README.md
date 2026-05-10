@@ -37,9 +37,9 @@ ___
 - [Orange](https://www.orange.fr/portail)
 - [Captain Tortue](https://talents.maisoncaptain.com/)
 <div align="center">
-  <img src="logos/agap2it.png" alt="Agap2it" width="120"/>
-  <img src="logos/Orange_logo.png" alt="Orange" width="120"/>
-  <img src="logos/captain_logo.png" alt="Captain Tortue" width="120"/>
+  <img src="logos/agap2it.png" alt="Agap2it" width="120" hspace="20"/>
+  <img src="logos/Orange_logo.png" alt="Orange" width="120" hspace="20"/>
+  <img src="logos/captain_logo.png" alt="Captain Tortue" width="120" hspace="20"/>
 </div>
 
 ___
