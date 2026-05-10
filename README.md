@@ -33,11 +33,17 @@ ___
 
 ### My professional expericence as Data scientist/data analyst🙌
 
-- [Agap2it](https://agap2-it.fr/)) 
+- [Agap2it](https://agap2-it.fr/) 
 - [Orange](https://www.orange.fr/portail)
 - [Captain Tortue](https://talents.maisoncaptain.com/)
 <div align="center">
-  <img src="logo_entreprises_.png" alt="Logos entreprises" width="750"/>
+  <img src="logos/agap2it.png" alt="Logos entreprises" width="750"/>
+</div>
+<div align="center">
+  <img src="logos/Orange_logo.png" alt="Logos entreprises" width="750"/>
+</div>
+<div align="center">
+  <img src="logos/Ocaptain-logo.png" alt="Logos entreprises" width="750"/>
 </div>
 
 
