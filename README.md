@@ -21,13 +21,15 @@ ___
 
 ### My professional expericence as Data scientist/data analyst🙌
 
-- [Agap2it](https://agap2-it.fr/) 
+- [Agap2it](https://agap2-it.fr/)
+- [Suez](https://www.toutsurmoneau.fr/)
 - [Orange](https://www.orange.fr/portail)
 - [Captain Tortue](https://talents.maisoncaptain.com/)
 <div align="center">
   <img src="logos/agap2it.png" alt="Agap2it" width="150" hspace="30"/>
   <img src="logos/Orange_logo.png" alt="Orange" width="160" hspace="30"/>
   <img src="logos/captain_logo.png" alt="Captain Tortue" width="160" hspace="30"/>
+  <img src="logos/logo-suez.png" alt="Captain Tortue" width="160" hspace="30"/>
 </div>
 
 ___
